@@ -1,0 +1,4 @@
+patient_id,age,gender,symptoms,medical_history,image_path,defaulted
+1,45,M,"fever, cough, fatigue","hypertension","images/xray1.jpg",0
+2,60,F,"chest pain, short breath","diabetes","images/xray2.jpg",1
+3,30,M,"headache, nausea","none","images/xray3.jpg",0
